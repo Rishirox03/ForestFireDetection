@@ -18,3 +18,4 @@ https://www.kaggle.com/datasets/mohnishsaiprasad/forest-fire-images
 | CB.EN.U4CSE21347   | T Rishiraj Mallik         |
 
 ---
+J, Guruprakash and Sakhi, Askhar and Gowda, Nishanth S. and Kumar J, Arun and G, Hariish and Narayanan, Ashwin and L.B, Krithika, AI-based Mobile Apps on Mobile Devices across various Domain Verticals: Past, Present and Future (October 29, 2024). Available at SSRN: https://ssrn.com/abstract=5002541 or http://dx.doi.org/10.2139/ssrn.5002541
